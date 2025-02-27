@@ -105,7 +105,7 @@ include '../header.php';
 </style>
 <main class="character-profile">
 <h2><?php echo $characterName; ?></h2>
-<img src="benedict.jpeg" alt="Benedict Bridgerton">
+<img src="benedict.jpg" alt="Benedict Bridgerton">
 <div class="bio">
 <h3>About Benedict</h3>
 <p>Benedict is the second son and child of Bridgerton household</p>
