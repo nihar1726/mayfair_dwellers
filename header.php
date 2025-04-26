@@ -15,15 +15,15 @@
         <nav class="navbar">
             <ul>
                 <li><a href="/index.php">Home</a></li>
-                <li><a href="/characters/daphne.php">Daphne</a></li>
-                <li><a href="/characters/anthony.php">Anthony</a></li>
-                <li><a href="/characters/benedict.php">Benedict</a></li>
-                <li><a href="/characters/colin.php">Colin</a></li>
-                <li><a href="/characters/eloise.php">Eloise</a></li>
-                <li><a href="/characters/francesca.php">Francesca</a></li>
-                <li><a href="/characters/gregory.php">Gregory</a></li>
-                <li><a href="/characters/hyacinth.php">Hyacinth</a></li>
-                <li><a href="/characters/agatha.php">Agatha Danbury</a></li>
+                <li><a href="/mayfair_dwellers/characters/daphne.php">Daphne</a></li>
+                <li><a href="/mayfair_dwellers/characters/anthony.php">Anthony</a></li>
+                <li><a href="/mayfair_dwellers/characters/benedict.php">Benedict</a></li>
+                <li><a href="/mayfair_dwellers/characters/colin.php">Colin</a></li>
+                <li><a href="/mayfair_dwellers/characters/eloise.php">Eloise</a></li>
+                <li><a href="/mayfair_dwellers/characters/francesca.php">Francesca</a></li>
+                <li><a href="/mayfair_dwellers/characters/gregory.php">Gregory</a></li>
+                <li><a href="/mayfair_dwellers/characters/hyacinth.php">Hyacinth</a></li>
+                <li><a href="/mayfair_dwellers/characters/agatha.php">Agatha Danbury</a></li>
                 <li><a href="/characters/violet.php">Violet Bridgerton</a></li>
                 <li><a href="/characters/kate.php">Kate</a></li>
                 <li><a href="/characters/mary.php">Mary</a></li>
