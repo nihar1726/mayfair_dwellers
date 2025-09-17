@@ -1,6 +1,3 @@
-Here’s the **updated README.md** with the corrected project structure from your screenshot:
-
----
 
 # Bridgerton Fan Website
 
